@@ -17,4 +17,6 @@ This project contains a prepopulated database of "users".  For this challenge, y
 * Make sure to include applicable unit tests.
 * Must make use of MVVM.
 
+Feel free to branch off of "main" and make any changes.
+
 In terms of UI, there are no specific requirements.  The only requirement is to display a list of users (first and last name) when a button is pressed. 
