@@ -4,7 +4,7 @@ Challenge Android Repository.
 
 ## Challenge
 
-This project contains a prepopulated database of "users".  For this challenge, you must:
+This project contains a prepopulated database (Android Room) of "users".  For this challenge, you must:
 
 * Display a list of users who have a "weak" password.
   * Password Requirements:
